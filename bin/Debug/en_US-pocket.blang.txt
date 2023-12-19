@@ -1,0 +1,2373 @@
+Depth Noise Scale Z
+Steak
+Oak Boat
+Lukas
+Food
+Night Vision
+Gamerscore:
+%s's Head
+Clear Selection
+%1$s was slain by %2$s using %3$s
+Spawn Magma Cube
+Cyan Stained Clay
+Invite Friends
+Leatherworker
+Experimental
+Saving is already turned off.
+Shown
+Food & Materials
+Cake Slices Eaten
+Ore Settings
+Tomte
+Level export started...
+Monkey King
+Plastic Texture Pack
+Raw Rabbit
+Time played:
+Singleplayer
+Obsidian
+Jesse Armored
+Cannot summon the object out of the world
+Cleared %s stats
+Spider Demon
+Skeleton costume
+Dyed
+Scholar
+Adventure Mode
+Distance Swum
+Entity Shadows
+Saved the world
+Highlight Players (Spectators)
+Caves of Chaos
+Original
+Open Command
+Ice
+Something went wrong.  We couldn't load some of your friends details.
+C418 - far
+Caver's Delight
+Double Tallgrass
+Arrow of Healing
+Looting
+Hoppers Searched
+World Type
+Iron Door
+You have been de-opped
+Quake Pro
+Large Ball
+Hunger
+Leave Bed
+Gold Horse Armor
+Power
+Controls
+Same as survival mode, locked at hardest
+Zombie costume
+Boost
+Zombie Horse
+Fuel
+You may not rest now, there are monsters nearby
+/chunkinfo [<x> <y> <z>]
+Rabbit
+Baked Potato
+Minutes Played
+Saved screenshot as %s
+Depth Strider
+Water Breathing
+Unable to place block
+Unlimited resources. No damage. Flying. No achievements even if you switch to survival later.
+Saddle
+Bucket
+Maximum
+Redstone & Transport
+Building Blocks
+Minimum
+Nether Explorer
+Poison
+Move Right
+Unleash
+Hotbar Slot 4
+Given %d levels to %s
+Tripwire Hook
+Redstone Miser
+The block at %d,%d,%d is not a tile entity and cannot support tag matching.
+Far
+Forester
+Shear
+Lime Stained Clay
+Iron Ore
+II
+Exporting world
+Silverfish Monger
+Feather Falling
+Old
+Cow Tipper
+Clownfish
+Level Requirement: %d
+Infinity
+Ignite
+Fish Caught
+The selected enchantment can't be added to the target item
+Multiplayer
+You must purchase the skin pack to use that skin, and we can't connect to the store.
+Stonecutter
+/testforblock <x> <y> <z> <TileName> [dataValue] [dataTag]
+Survival
+Destroy a Ghast with a fireball
+Video Quality Settings
+Shears
+Noteblocks tuned
+Main menu
+Fancy Leaves
+Potion
+Mining Fatigue
+Guanyin
+Game
+Wooden Door
+ Spread Height
+Slymime
+Wooden Pressure Plate
+Dandelion Yellow
+Normal
+Pink Stained Glass Pane
+Import
+There are %d/%d players online:
+Successfully spread %s players around %s,%s
+Damage Taken
+Lime
+Failed to execute '%s' as %s
+Materials
+Blue Stained Glass Pane
+Your game mode has been updated
+Red Sandstone
+Right Sleeve
+Jesse Armored
+Confirm Skin
+Can break:
+Iron Door
+Desert Archer
+Items Dropped
+Armor Pieces Cleaned
+Slime Block
+Chunk is empty.
+Butcher
+Parka?
+Observer
+/gamemode <mode> [player]
+Now playing: %s
+Title command successfully executed
+Clay
+/clear [player] [item] [data] [maxCount] [dataTag]
+Mooshroom costume
+Remove Material
+Pumpkin
+Send %d Invites
+Vanguard
+New
+Blue Carpet
+Spawn Wither Skeleton
+Ston�x?7�
+Spreading %s players %s blocks around %s,%s (min %s blocks apart)
+Flat
+Delete world
+Pale Bone Demon
+Beautiful Skies
+Brown Wool
+C418 - mellohi
+White Stained Glass
+Minecraft must create Extra Data on the microSD Card to save Worlds. Create new Extra Data now?
+Presets
+Checking Realms compatibility...
+Object successfully summoned
+Debonair
+Controller Layout
+Red Sand
+Vines
+Superflat Customization
+Jukebox/Noteblocks
+Press '%1$s' to open your inventory.
+Press sneak to dismount
+Delete
+%1$s fell too far and was finished by %2$s
+Take
+Wool
+Redstone
+Jesse
+Stone Pickaxe
+/summon <EntityName> [x] [y] [z] [dataTag]
+Saves loaded
+Potatoes
+Firework Star
+Zombie Reinforcements
+Lock World Difficulty
+%1$s blew up
+DIAMONDS!
+%1$s drowned
+Reset your Realm?
+All
+Grass
+Soren
+Bane of Arthropods
+Block of Iron
+Block at %d, %d, %d is not a container
+Open Chat
+Coal
+Ocean Monuments
+Saturation
+Purple Dye
+%1$s can't be combined with %2$s
+Brown Stained Glass
+Select Enchant
+Something went wrong.  We couldn't load your friends list.
+Allow Cheats:
+Video Performance Settings...
+Jump/Fly Up
+Slowness
+Given %d experience to %s
+Arrow of Levitation
+Nether Tamer
+Minecraft Realms
+Tundra Hunter
+Sneak/Fly Down
+Decreased
+White Stained Clay
+Small Ball
+Fullscreen
+Attack a tree until a block of wood pops out
+Gray Stained Clay
+Jungle Wood Planks
+Gray Wool
+Nether Reactor Core
+Farmland
+Poppy
+Could not de-op %s
+Lord Hundred-Eyes
+%d hours
+Players
+Music
+Acrid
+Old Man
+Toy Crafter
+Game Interface
+Barmaid
+Creative
+Blaze Powder
+Smooth Sandstone
+Stone Shovel
+%1$s walked into fire whilst fighting %2$s
+Interactions with Crafting Table
+Cauldron
+Browse for a Minecraft World
+Chunk location: (%d, %d, %d)
+Stone Axe
+Desert Hunter
+Wood
+Hotbar Slot 3
+Iron Leggings
+Flame
+Distance by Boat
+hi %  s
+Bookshelf
+Horse
+Decline
+Oak Wood Slab
+Carpenter
+Invalid trigger mode %s
+Unlock! - %s
+The world's default game mode is now %s
+Light Blue Stained Clay
+Fancy
+Active!
+Biome Scale Weight
+Raw Porkchop
+Back to Anvil
+Anvil
+Tipped Arrow
+/setidletimeout <Minutes until kick>
+Depth Noise Scale X
+Jungle Sapling
+'%s' is not a valid number
+Clay
+Diamond Axe
+%1$s was squashed by a falling anvil
+Friendly Creatures
+Tame
+Spawn Creeper
+Brick Stairs
+Harvest some leather
+Cooked Mutton
+Mooshroom Brawler
+Note Block
+Magnus Armored
+Stronghold Monarch
+Spawn Giant
+Grass Path
+Pumpkin Pie
+Toggle Immersive Mode
+You died!
+Settings
+Ambient/Environment
+I
+Large Fern
+Iron Trapdoor
+Forest Woodbeast
+There is not enough space on the microSD Card to create extra data for Minecraft.  Please clear some space on the microSD Card and try again.
+Arrow
+Too many blocks in the specified area (%d > %d)
+Enchanted Book
+Diamond Leggings
+Story Mode Skin Pack
+Bottom - %d
+%1 weeks ago
+Try it out!
+Chat Settings...
+Quartz Slab
+1 Lapis Lazuli
+Oak Leaves
+Ellegaard Armored
+Golden Hoe
+Open texture pack folder
+Jumps
+Old Lady
+Spruce Leaves
+Since Last Death
+Coder
+%1$s was killed by %2$s using %3$s
+Cobblestone Slab
+Dress as a Cake Maniac, Frankencrafter, or worse!
+Block of Emerald
+Dark Oak Leaves
+Toggle Fullscreen
+Spider
+Spawn Mule
+View Bobbing
+Machine Specs Collection
+Enchant
+Redstone Dust
+Tiny
+Making backup...
+Could not spread %s players around %s,%s (too many players for space - try using spread of at most %s)
+Texture Packs
+Fly Down Slow
+Repopulation
+Game Mode
+/me <action ...>
+Unknown Shape
+FOV
+Fast
+Quartz Slab
+Patch Notes
+Oak Wood Stairs
+Jesse
+Blast Protection
+Thick
+Magenta Dye
+Nether Brawler
+Wooden Shovel
+Paper
+Magma Cube
+Baker
+Overpowered
+Pick Block
+Worlds created
+Frankencrafter
+Powered Rail
+Chest
+Right Pants Leg
+Brewing
+New World
+Creeper-shaped
+Page %1$s of %2$s
+Spawn Zombie Pigman
+Yes
+Tundra Griefer
+Set a fixed slot to a specified item
+The microSD Card was removed.
+Spruce Wood Stairs
+Minecraft Store
+This is bad.  This server failed our verification test.  Someone we don't trust might be pretending to be a trusted server.
+White
+Raw Fish
+Command Block
+Tipped Arrow
+Tools
+Cancel
+No Effects
+Copy of a copy
+Glowstone
+Packed Ice
+Played sound '%s' to %s
+Something went wrong.  We can't verify that the server you are trying to connect to is one that we trust.  We recommend that you try again later.
+%1$s went up in flames
+Yellow Stained Glass Pane
+Kicked %s from the game: '%s'
+II
+Brewing Stand
+Uninteresting
+Store
+Wooden Trapdoor
+%1$s was struck by lightning
+Change
+Large Chest
+Chain Chestplate
+Dispenser
+You have never killed %s
+Mooshroom
+You have never been killed by %s
+Nether Brick Slab
+Mobs
+Purple
+Fishing Rod
+%1$s fell off some vines
+Cannot place block outside of the world
+Spruce Wood Planks
+Apple
+Locate the End
+Holy Man
+Limit World Size
+Chunk is not compiled.
+Beetroot Soup
+Tundra Stray
+Items Enchanted
+Bard
+Oak Fence Gate
+Compass
+World Size
+Peaceful
+Cape
+Lower Limit Scale
+Water Bucket
+Stone
+/setworldspawn [<x> <y> <z>]
+Multiplayer
+Discover
+Scale
+World Permanence
+Small Fireball
+Firework Rocket
+will be lost forever! (A long time!)
+%1$s Crafted
++%d %s
+Stonecutter
+Hotbar Slot 2
+Stone Monster Egg
+Same as survival mode, but blocks can't
+Father Christmas
+Too many blocks in the specified area (%d > %d)
+Place One
+There is not enough space on the microSD Card.  Please clear some space on the microSD Card and try again.
+Changing to rainy weather
+Cannot access blocks outside of the world
+can't be found.
+Brightness
+You need to collect blocks to craft!
+Redstone Lamp
+Fire
+Wooden Planks
+Standard
+Spawn Ender Dragon
+All players need to be close to the reactor.
+A 64 bit Java installation is recommended
+Birch Leaves
+Head
+Combat
+Unable to teleport because players are not in the same dimension
+Hotbar Slot 1
+Camera
+Restore
+Playing effect %s for %d times
+Potent
+Potion of Invisibility
+Swindler
+Set world border damage amount to %s per block (from %s per block)
+Snow Golem
+Prismarine Crystals
+Beetroot
+Spawn Cat
+/replaceitem block <x> <y> <z> <slot> <item> [amount] [data] [dataTag]
+Chests Opened
+%d blocks compared
+Leather Tunic
+Hopper
+Bread
+You cannot place blocks here
+Potion of Saturation
+%1$s was doomed to fall
+Simulating the world for a bit
+Loading Minecraft...
+Red Stained Glass
+Cobblestone Slab
+Found %s
+UNKNOWN
+Jacket
+Golden Leggings
+Turned off world auto-saving
+Acacia Door
+Spawn Enderman
+Birch Sapling
+Benchmarking
+Diamond Chestplate
+Nether Griefer
+Times Used
+Build a portal to the Nether
+/weather <clear|rain|thunder> [duration in seconds]
+Halloween Costumes
+Advanced Video Settings...
+Next Page
+Edit Layer
+My World
+Basic Settings
+Projectile Protection
+Monk Pig
+Adventuring Time
+You killed %d %s
+You do not have permission to use this command
+The number you have entered (%.2f) is too small, it must be at least %.2f
+Mountain Madness
+Browse
+Fixed Inventory Slot %d set to %s
+OFF
+Next auto save will trigger in %i...
+III
+Cactus Green
+Unlimited resources, free flying and
+Rename
+Mushroom Stew
+Light Gray Dye
+Exit
+Forest Griefer
+Potion of Nausea
+Into Fire
+Spawn Zombie Horse
+Nether Quartz Ore
+Brown Stained Clay
+Survival
+/time <set|add|query> <value>
+Saving...
+Restore
+Set world border center to %s,%s
+Trapped Chest
+Glass
+Set world border to %s blocks wide (from %s blocks)
+VIII
+Raw Mutton
+Take Picture
+Chiseled Sandstone
+Online Friends
+Gold Ore
+Star-shaped
+Diamond Boots
+Colors
+C418 - strad
+No chunk found at chunk position %d, %d, %d
+Nether
+Composer
+Spider costume
+Villages, dungeons etc
+/whitelist add <player>
+First 64 vertices are: %s
+An unknown error occurred while attempting to perform this command
+An error occurred while accessing the microSD Card.  Please power the system off, reinsert the microSD Card and try again.
+[ caption ]
+Baron
+Inventory
+The number you have entered (%d) is too small, it must be at least %d
+(Average distance between teams is %s blocks apart after %s iterations)
+Nether Banished
+Getting Wood
+Some of your invites may have failed to send.
+Resistance
+Locating server
+World Name
+Interactions with Beacon
+Cake
+Knockback
+Enable Post-Processing
+Ride
+Could not op %s
+Watchman
+en_US
+Blue Stained Glass
+Iron Boots
+None
+Weather
+Controls...
+No blocks cloned
+Magenta Stained Clay
+Redstone Specialists
+/defaultgamemode <mode>
+Redstone Ore
+Scaling at 1:%s
+Water Lakes
+Tundra Archer
+Stone Slab
+/give <player> <item> [amount] [data] [dataTag]
+Prismarine Shard
+Portal
+Architect
+Remove Fuel/Input
+Set spawn point for %s
+/worldborder damage <buffer|amount>
+If you quit without saving, all progress since your last save will be lost.
+Play
+Width
+World is deleted upon death
+Orange Stained Glass
+Successfully found the block at %d,%d,%d.
+Cocoa
+%1$s was shot by %2$s
+Education Edition Skins
+Birch Wood
+Chain Leggings
+Splash
+Take Screenshot
+Dye
+Crafting
+/title <player> title|subtitle <raw json title>
+Delete
+%1$s was shot by %2$s using %3$s
+Dragon Egg
+Walk Forwards
+Worlds
+Slow down to exit boat
+Create a full beacon
+Creative
+Block data updated to: %s
+Position: %s, %s, %s
+Unbreakable
+Number of Fixed Inventory Slots set to %d
+Can be placed on:
+Level
+You need to collect blocks to craft!
+Fern
+Buttered
+/effect <player> <effect> [seconds] [amplifier] [hideParticles] OR /effect <player> clear
+/tellraw <player> <raw json message>
+Texture Packs
+Mooshroom Forager
+Forest Brewer
+Times Depleted
+Spawn Witch
+%s %s
+Jungle Wood
+Smelt an iron ingot
+Re-Create
+%1$s was killed trying to hurt %2$s
+Sign
+Invert Y-Axis
+Minecart with Chest
+Sound
+Arrow of Water Breathing
+Display Markers
+World Name
+Seed: %s
+Touchscreen Mode
+Potion of Harming
+Oak Fence
+Soren Armored
+Pumpkin Stem
+Use Item/Place Block
+Sandstone
+Force Unicode Font
+Efficiency
+Available Texture Packs
+Beaconator
+Mushroom
+Export
+Changing to rain and thunder
+Mechanisms
+Desert Brewer
+Shopkeeper
+Minecart
+Clouds
+Mooshroom Explorer
+Button %1$s
+Forest Hunter
+ Spawn Tries
+Lava Lake Rarity
+Height Stretch
+destroy blocks instantly
+ Center Height
+Sea Lantern
+Light Blue
++%d%% %s
+Hide GUI
+Raw Beef
+Choose Skin
+Golden Apple
+for 'Far' render distance (you have 32 bit)
+Mipmap Levels
+Pig
+/worldborder warning <time|distance>
+Ocelot costume
+Spruce Fence
+Can't spawn enemy in Peaceful mode.
+Item Frame
+Web Links
+Main Noise Scale Y
+Villages
+Building terrain
+Stone Monster Egg
+Taking Inventory
+Rabbit Hide
+Enter Message
+Generating world
+%s is a player and cannot be changed
+There is no such enchantment with ID %d
+Droppers Searched
+Jesse Armored
+Pink Carpet
+White Stained Glass Pane
+Shoemaker
+Only server owners can change '%s'
+Cookie
+Select Language
+%s has %d items that match the criteria
+Level import failed
+Jesse Armored
+Brown
+Potion of Slowness
+Getting an Upgrade
+Video Performance Settings
+Back to title screen
+Gray Carpet
+Quit
+Saturation
+Arrow of Luck
+New: Villains Skin Pack
+Spawn Zombie
+Tundra Engineer
+Remember this choice
+Creeper costume
+Milk Stew
+%1$s was pummeled by %2$s using %3$s
+Arrow of Invisibility
+Fancy
+Dark Oak Wood Slab
+Enchanting succeeded
+Skin Customization...
+/save-off
+Cooked Rabbit
+Iron Axe
+Rainbow Sheep costume
+Catch and cook fish!
+Tools
+Game Mode
+Arrow of Slowness
+Reduced Debug Info
+Bulky
+Music & Sounds...
+Lime Dye
+Plants potted
+Magnus
+Foul
+Pink Wool
+Orange Carpet
+Stopped debug profiling after %.2f seconds (%d ticks)
+Hello, world!
+Wheat
+Wither
+C418 - mall
+Cleared the inventory of %s, removing %d items
+Attack Damage
+Furnace
+Camera
+Very Damaged Anvil
+Interactions with Brewing Stand
+%1$s was blown up by %2$s
+Normal
+Dispensers Searched
+Block of TNT
+Couldn't save screenshot: %s
+difficulty, and one life only
+Axel Armored
+Pink Sheep costume
+Your level is too low
+Create New
+Dark Prismarine
+/list
+Piston
+Create a Realms Server
+Resume
+D-pad size
+Turn wheat into bread
+The block at %d,%d,%d did not have the required NBT keys.
+Start/Stop Stream
+Start
+%1$s fell from a high place
+Junk Fished
+Bow
+%1$s was burnt to a crisp whilst fighting %2$s
+The block couldn't be placed
+Mule
+Yellow Carpet
+Name Tag
+Ender Pearl
+%1$s was doomed to fall by %2$s
+/stats block <x> <y> <z> set <stat> <selector> <objective>
+OK
+The target block is not a data holder block
+Tab
+Tundra Tamer
+Hidden
+Cancel
+Polished Andesite
+Beetroot
+Full
+Press START Button
+/worldborder damage amount <damagePerBlock>
+Low Space
+Crafting Table
+GUI Scale
+Replaced slot %d with %d * %s
+Soul Sand
+Texture Packs...
+Add Layer
+Play on Realms
+Stone Slab
+Stone Hoe
+Silverfish
+Nether Wart Farmer
+Infinite
+Interactions with Furnace
+%1$s died
+Data tag parsing failed: %s
+Main Noise Scale Z
+String
+Realms Coming Soon!
+Victorian
+Minecart with Hopper
+Flight Duration:
+Search Items
+Spawn Ocelot
+Scorpion Demon
+Today
+Villager
+Time to Mine!
+Biome
+Post-Processing Settings
+3D Anaglyph
+Spawn Sheep
+Mineshafts
+You cannot respawn in hardcore mode!
+Chunk has no renderable layers.
+Sets the number of fixed inventory slots for the server
+Ivor
+Press %1$s to dismount
+Acacia Wood Stairs
+Gingerbread Creeper
+Forest Tamer
+Sandstone Slab
+%s did not match the required data structure
+Carrot on a Stick
+Inventory
+Trapped Chests Triggered
+Export Portfolio
+Orange Stained Glass Pane
+Fly Up Slow
+Falling Block
+Flower
+Default
+Treasure Fished
+Can't stop profiling when we haven't started yet!
+Cocoa Beans
+Enter a seed to generate the same terrain again. Leave blank for a random world.
+Sugar cane
+Black Carpet
+We want to collect information about your machine to help improve Minecraft by knowing what we can support and where the biggest problems are. All of this information is completely anonymous and viewable below. We promise we won't do anything bad with this data, but if you want to opt out then feel free to toggle it off!
+Advanced Settings (Expert Users Only!)
+Limited resources, you'll need tools. You may get hurt. Watch out for Monsters.
+Burst
+Dropper
+Leather Horse Armor
+Logout
+C418 - wait
+(Place texture pack files here)
+Hardcore Mode!
+Vagrant
+Save & Quit
+Glass Bottle
+Render Distance
+Open to LAN
+Bright
+The data tag did not change: %s
+Brew a potion
+Take Item
+Coordinate Scale
+Olivia Armored
+Nether Miner
+Melon Seeds
+Spawn Spider
+Forest Archer
+Mooshroom Farmer
+Yesterday
+Acquire diamonds with your iron tools
+Mooshroom Tamer
+Gray Dye
+Unlock All %s Skins - %s
+Rename Item
+Rename World
+Game over!
+World
+Talk
+Spectator Mode
+The Beginning?
+Select World
+Lefty
+Unknown effect name (%s)
+Chunk has layers: %s
+Spruce Door
+Save Game
+Acacia Boat
+Gardener
+Snowball
+/worldborder warning time <seconds>
+Biome Depth Offset
+Cactus
+Desert Tamer
+Horse Jump Strength
+Item
+The block at %d,%d,%d had the data value of %s (expected: %s).
+/gamerule <rule name> [value]
+Fletcher
+Customize World Settings
+Jesse
+Puffed Padded
+Hardcore
+Spectator
+Potion of Dullness
+This bed is occupied
+Input
+Bonus Chest:
+Nether Brick
+Difficulty
+Quartz Stairs
+Granite
+Not the correct pattern!
+Spawn
+Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!
+End Portal
+Desert Griefer
+Oak Wood Planks
+Time to Strike!
+Randomize
+Lady Earth Flow
+%1$s Depleted
+Zombie Pigman costume
+Leash
+Talked to Villagers
+Fermented Spider Eye
+Skins
+Potion of Night Vision
+Sound Volume
+IX
+Melon
+Birch Wood Stairs
+Polished Diorite
+Dropper
+Jesse Armored
+Lava
+Rename
+Iron Pickaxe
+Potion of Blindness
+Custom
+Carrot
+Resetting Realm...
+Rose Red
+Level export failed
+Sorry, you can't change your skin in-game. Access Options from the main menu.
+%1$s was squashed by a falling block
+In Progress VR Controls. These controls are a work in progress and should be considered experimental. Turning, Jumping, Swimming and Cursor tuned for VR. Controls can also be changed in-game via the options menu.
+Armor Stand
+Enchantment Table
+Golden Boots
+Lava Lakes
+/tell <player> <private message ...>
+Redstone Zealot
+Cobblestone Monster Egg
+Invisibility
+Post-Processing Settings...
+Texture packs are applied bottom to top. This means any asset that is in two packs will be overridden by the higher pack.
+Save & Exit
+Golden Helmet
+Chef
+Spawn Donkey
+Creeper
+Wither Skeleton Skull
+Rail
+The Lie
+Spawn Skeleton Horse
+Spruce Boat
+Auto
+Defeat the Ender Dragon
+Extra Advanced Settings (Expert Users Only!)
+Opacity
+Distance by Minecart
+Saving in progress. Do not touch POWER Button.
+Spawn Slime
+Achievements
+Unable to host local game
+Add Item
+Discover all biomes
+Biome Settlers Pack 1
+Plant
+Toggled downfall
+Distance by Pig
+Normal
+Edit sign message
+Lava Fiend
+Alternate Blocks
+Poster
+Harsh
+Toggle Perspective
+Cancel
+Nether Engineer
+Alternatively, here's some we made earlier!
+Monster
+Hat
+Locked chest
+Beetroot Seeds
+AMPLIFIED
+Ghast
+/tp [target player] <destination player> OR /tp [target player] <x> <y> <z> [<y-rot> <x-rot>]
+Nether Quartz
+Red Sandstone Stairs
+Oak Sapling
+Distance Walked
+/setblock <x> <y> <z> <TileName> [dataValue] [oldBlockHandling] [dataTag]
+Game
+Level import finished successfully
+Iron Hoe
+Use planks and sticks to make a pickaxe
+Mooshroom Hunter
+Customize
+Stone Bricks Slab
+Bricks Slab
+Page %s
+Took %1$s from %2$s
+Sandstone Slab
+Lapis Lazuli Ore
+/worldborder set <sizeInBlocks> [timeInSeconds]
+Duster
+Realms
+On A Rail
+Desert Husk
+Use Preset
+Distance Crouched
+Cobblestone
+TNT
+Hostile Creatures
+Iron Chestplate
+Arrow of Splashing
+Sorry, we were unable to complete your purchase. Maybe check your internet connection?
+Cannot place blocks outside of the world
+Hotbar Slot 9
+Controls
+Blue
+Instant Health
+Yellow
+Golden Sword
+Bottle o' Enchanting
+Pause Menu
+That's not a Minecraft skin, silly.
+Tasty Gingerbread
+Return to Sender
+Master Volume
+Creeper Head
+Press D-Pad Up to toggle Immersive Mode
+Select Item
+Changing to clear weather
+Destroy Item
+Save
+Cobblestone Wall
+Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+Town Crier
+Seed for the World Generator
+Skin Customization
+Patchkin
+Glowstone Dust
+Third Person
+Black Stained Glass Pane
+City Texture Pack
+Black Wind Demon
+You died!
+Primary Power
+Cave Spider
+/testfor <player> [dataTag]
+Edit Text
+Dark Oak Wood Planks
+Orange Wool
+Smite
+%s killed you %d time(s)
+Shown
+Potion of Absorption
+Cannot change block outside of the world
+/clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+Silk Touch
+Casual Comfy
+Jesse
+Potion of Hunger
+Leather Cap
+Red Carpet
+Orange Tulip
+Successfully set the idle timeout to %d minutes.
+Result
+Wool
+Alex
+Height limit for building is %s blocks
+Chain Boots
+The End.
+Data tag parsing failed: %s
+Commands Only
+New: City Texture Pack
+When Pigs Fly
+Started debug profiling
+Could not add %s to the whitelist
+Height
+Choose the correct model type for your skin
+Birch Boat
+Mooshroom Archer
+Data tag parsing failed: %s
+Tundra Brawler
+Holiday Skin Pack 2015
+Ruby
+Potion of Leaping
+Flat
+Rabbit Stew
+Flint
+Nausea
+Brown Stained Glass Pane
+Jack o'Lantern
+Iron Golem
+Thin
+The entity UUID provided is in an invalid format
+Stronghold Seer
+Leaves
+Torch
+/toggledownfall
+Arrow of Poison
+has an unknown problem.
++%d%% %s
+/save-on
+Spider Eye
+Acquire Hardware
+Quit Game
+Short
+The requested version doesn't exist for this command
+Allium
+Generate Structures:
+Attack and destroy a monster
+Blocks
+Main Noise Scale X
+Strength
+Delete
+Refined
+Brown Carpet
+Sunflower
+/stats entity <selector> <mode>
+Forest Brawler
+City Folk
+Xuanzang
+Fisherman
+Grass Block
+Expired
+Copy from Global
+Blacksmith
+Shrub
+Successfully spread %s teams around %s,%s
+/whitelist remove <player>
+Up
+Medium
+Cordial
+Azure Bluet
+Gold Ingot
+The nether reactor needs to be built higher up.
+Light Gray Stained Clay
+Weakness
+/kill [player|entity]
+Max Framerate
+The data tag did not change: %s
+Sit
+Easy
+Open
+C418 - chirp
+Too Expensive!
+Leather Pants
+Thief
+Block placed
+Large
+Fade to
+be added or removed
+Full
+Fire Resistance
+Take All
+Number of Deaths
+Damage Dealt
+Spawn Cow
+Sharpness
+Yellow Wool
+Spawn Villager
+New
+Light Gray Wool
+Potion
+Pink Stained Clay
+Magma Cream
+Leather
+Commands like /gamemode, /xp
+Townswoman
+Fetching Realms...
+No
+Protection
+Artless
+/deop <player>
+Jungle Boat
+Grass
+Nether Wart
+Achievement
+Oak Door
+Dark Oak Fence Gate
+Iron Horse Armor
+Pause/Unpause Stream
+Sand
+Clear
+%1$s was pricked to death
+Music Disc
+Arrow of Fire Resistance
+Creating Minecraft Extra Data...
+Out of space
+Mob
+Options
+Bindings
+Leave server
+Data tag parsing failed: %s
+Red Wool
+In Progress VR Controls
+Golden Pickaxe
+Sniper Duel
+Breed two cows with wheat
+Artisan
+Bat
+Reset all buttons to default?
+Board
+Biome Depth Weight
+Skin packs
+Reset Demo World
+Debug Mode
+Respawn
+%1$s hit the ground too hard
+%s whispers to you: %s
+Hotbar Slot 8
+Iron Bars
+/particle <name> <x> <y> <z> <xd> <yd> <zd> <speed> [count] [mode]
+Cooked Porkchop
+Birch Door
+Trade something else to unlock!
+Taken!
+Ideal for building structures.
+Jungle Fence
+Multiplayer Settings
+Data tag parsing failed: %s
+Unlimited
+Achievement get!
+Chiseled Red Sandstone
+Respiration
+Source and destination are not identical
+Minecraft
+List Players
+Minecraft World
+Speed
+V
+Unable to connect to the world.  Please check your connection to the internet and try again.
+Potion of Resistance
+There is no such mob effect with ID %d
+Cannot give player negative experience points
+Shepherd
+Couldn't take any effects from %s as they do not have any
+/whitelist <on|off|list|add|remove|reload>
+Too many commands have been requested, wait for one to be done
+Diffuse
+%1$s was fireballed by %2$s using %3$s
+Press the C key to toggle Immersive Mode
+Light Gray Stained Glass
+Decorations
+Upper Limit Scale
+Repair & Name
+world
+Added %s to the whitelist
+%1$s burned to death
+Trail
+Ink Sac
+Hay Bale
+Cyan Carpet
+Stone Slab
+Done!
+Swap Jump and Sneak
+Olivia
+--- Showing help page %d of %d (/help <page>) ---
+Invalid parameters
+Top Snow
+Minecart
+Stone Pressure Plate
+Kill the Wither
+Travel by minecart at least 1 km from where you started
+Magenta Wool
+Use planks and sticks to make a hoe
+/execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <data> <command>
+Lava Oceans
+Chunk has empty layers: %s
+Anvil
+Queen
+Cannot access MicroSD Card
+Jesse
+Pause
+Farmer
+Source and destination can not overlap
+Potion of Health Boost
+Hardcore:
+Acacia Fence Gate
+Notice: Just for fun, requires beefy computer
+Dark Oak Sapling
+/stats entity <selector> clear <stat>
+Saving is already turned on.
+Mycelium
+Cooked Salmon
+Top - %d
+Saving failed: %s
+Spawn Silverfish
+Painting
+levels, health and hunger
+Level %s/%s
+Sticky Piston
+Distance by Horse
+Lime Stained Glass Pane
+%1$s walked into a cactus whilst trying to escape %2$s
+Tipped Arrow
+World Type:
+Stray
+Guardian
+Movement
+The maximum number of ambient creatures in a world has been reached.
+GB
+Diamond Hoe
+Cake
+Copy of %s
+Jungle Fence Gate
+%1$s was doomed to fall by %2$s using %3$s
+Skin Packs
+Teleported %s to %s, %s, %s
+There is no such block with name %d
+Holy Woman
+Cancel
+Lime Stained Glass
+Postman
+/enchant <player> <enchantment ID> [level]
+Mushroom
+%d/%d/%d
+Scroll Slower
+Transportation
+Enderman costume
+Golden Axe
+Skeleton
+Potion of Decay
+Furnace
+Only players can use the /trigger command
+Texture Packs
+Instant Damage
+Custom
+Title screen
+Must be converted!
+Walk Backwards
+has an unsupported format.
+Lapis Lazuli Block
+Protector
+White Tulip
+Press jump to exit minecart
+There is no such item with name %d
+Spawn Horse
+Place All
+/spawnpoint [player] [<x> <y> <z>]
+Take Half
+Chunk is compiled.
+Beacon
+Spawn Stray
+You can look but don't touch
+Ender Chest
+Multiplayer joins
+/entitydata <entity> <dataTag>
+Cauldron
+Snug Snoozy
+Strongholds
+Gross
+%1$s Used
+Light Gray Stained Glass Pane
+Lily Pad
+Invalid json: %s
+Invalid command syntax
+Coarse Dirt
+Health Boost
+Butcher
+Name
+Creating new world...
+(Average distance between players is %s blocks apart after %s iterations)
+Odorless
+Banners Cleaned
+Steve
+Taken %d levels from %s
+IP: %1
+Tipped Arrow
+Pause
+Red Tulip
+Distance Fallen
+Friends
+Brewing Stand
+Black Wool
+Sand
+Bland
+C418 - cat
+Red Sandstone Slab
+Bisector
+Purple Stained Clay
+Show Stream Commercials
+/playsound <sound> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+Login
+Back to Furnace
+Lava Bucket
+Layer Material
+Generating world
+Blaze Rod
+Tool Smith
+Sparkling
+Dark Oak Fence
+Ruby Ore
+Donkey
+Block of Redstone
+Ride
+Sign
+Birch Wood Slab
+Quick Move
+Sorry, we were unable to restore your skins. Maybe check your internet connection?
+Diamond Pickaxe
+External
+Written Book
+The block at %d,%d,%d is %s (expected: %s).
+Cyan Dye
+Diamond
+The maximum number of animals in a world has been reached.
+%%s %%%s %%%%s %%%%%s
+Chest
+Bedrock
+Split Controls
+US
+Stone Sword
+The target doesn't hold an item
+Buy
+Weapon Smith
+Ender Dragon
+Charcoal
+Customized
+Jesse Armored
+Pink Dye
+Redstone Torch
+Chiseled Stone Brick Monster Egg
+Are you sure you want to delete this world?
+Search for resources, crafting, gain
+Inventory
+Nether Star
+Music & Sound Options
+Miner
+Awkward
+Realms Beta
+ON
+Leave boat
+Deny
+Tap the touchpad for Immersive Mode
+Stone Bricks Slab
+MB
+Back
+%1$s starved to death
+Always Day
+Cauldron
+Adventure
+Desert Brawler
+Green Carpet
+Local game hosted on port %s
+Achievements
+Stone Brick Stairs
+Learn More
+Prismarine
+Town Folk
+Construct a better pickaxe
+Santa Claus
+Block at %d, %d, %d can not track stats
+Light Blue Wool
+Press sneak to dismount
+Gamertag: %s
+You don't have all ingredients
+Prospector
+/help [page|command name]
+Set world border warning to %s seconds away (from %s seconds)
+Distance Flown
+Loading world
+Flower
+Snooper Settings...
+Horse
+%d blocks cloned
+Stinky
+Light Blue Stained Glass Pane
+Redstone Comparator
+Inventory
+Haste
+Gray
+Wood Slab
+Endergaunt
+Purchase in progress! This shouldn't take long.
+Enter Book Title:
+Axel
+Drop Item
+Slightly Damaged Anvil
+/stats entity <selector> set <stat> <selector> <objective>
+Sheep
+Times Crafted
+Game menu
+Rose Bush
+Move Left
+Purple Stained Glass
+Left Pants Leg
+Deal nine hearts of damage in a single hit
+Jumper?
+Skeleton Skull
+Castaway
+Daylight Sensor
+Raw Chicken
+Block of Diamond
+Block of Quartz
+Edit %s
+Build some bookshelves to improve your enchantment table
+Graphics
+Arrow of Weakness
+Sign
+All invocations failed: '%s'
+Carrots
+Hotbar
+blocks
+/blockdata <x> <y> <z> <dataTag>
+Terror Spawner
+Sandstone
+Feedback
+Delete world permanently?
+Wooden Sword
+Usage: %s
+Music
+Ender Chest
+Sound
+Mooshroom Miner
+Moss Stone
+Make Infinite!
+Hardcore
+Spawn Bat
+Dispenser
+Cannot test for block outside of the world
+Baroness
+Create World!
+Mob Effects
+Stone Slab
+Red Stained Clay
+Game Settings
+Play with Touch
+Tab
+No targets matched search
+Create Map
+Game rule has been updated
+Storing %s stats in %s on %s
+Set game difficulty to %s
+Your microSD Card is almost full. It is recommended that you clear some space. If you proceed, you may be unable to save your progress.
+Importing world
+Survival Inventory
+Yellow Stained Glass
+Hotbar Slot 7
+/kick <player> [reason ...]
+Trigger %s changed with %s %s
+Hopper
+Emerald
+Prismarine Bricks
+Red Boy
+Respawning
+Set world border damage buffer to %s blocks (from %s blocks)
+Acacia Sapling
+Tundra Brewer
+Villains
+Nether Brick Stairs
+Video Settings...
+by %1$s
+Acacia Leaves
+Use VSync
+Button
+Want to share your preset with someone? Use the below box!
+Diorite
+Bull Demon King
+Fire Protection
+unknown
+Light Blue Dye
+English (US)
+Brick
+Shroom Glutton
+Enchanter
+Spawn NPC
+Green Wool
+Statistic
+error
+Pufferfish
+Press HOME Button to return to the HOME Menu.
+Good Luck
+Experience Orb
+can't be opened.
+Time to Farm!
+Off
+Birch Fence Gate
+Depth Base Size
+Selected Texture Packs
+Craft
+Nether Archer
+Button Size
+Barrier
+Green
+Toggle Cinematic Camera
+Stone Bricks
+Warm Wooly
+*yawn*
+%d Enchantment Levels
+We Need to Go Deeper
+Credits
+Aqua Affinity
+Set own game mode to %s
+Jungle Wood Slab
+/stats block <x> <y> <z> <mode> ...
+Poisonous Potato
+Husk
+Twinkle
+Nether Brewer
+Unable to summon object
+This will overwrite your current
+Equip this Skin
+Distance Dove
+Strong Man
+Spawn Blaze
+Block of Quartz
+Set spawn point for %s to (%d, %d, %d)
+Score
+Black
+/replaceitem <entity|block> ...
+Blacksmith
+/title <player> <title|subtitle|clear|reset|times> ...
+Skeleton Horse
+Unassigned
+You have been opped
+Feather
+Zombie Pigman
+Light Blue Stained Glass
+Achievements:
+Glass Pane
+Dark Oak Door
+Mooshroom Griefer
+Command calls through sockets should specify a version greater than 0
+Mooshroom Brewer
+%1 days ago
+Mooshroom Engineer
+Rogue
+/spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+Green Stained Clay
+Previous Page
+Statistics
+General
+Monster Spawner
+Petra
+Potion of Poison
+Remote world at:
+/difficulty <new difficulty>
+Red-Nose
+Tripwire
+Keyboard Layout
+Diamond Ore
+Next auto save will trigger in 1 minute
+/publish
+Luck of the Sea
+Unfocused Height
+%1$s tried to swim in lava
+Elegant
+Book and Quill
+World border is currently %s blocks wide
+Quit without saving?
+The microSD Card is in the wrong format.  Please power the system off, format the microSD Card using a PC or other device and try again.
+Converting world...
+Mushroom
+Quit?
+Lilac
+Select
+C418 - ward
+Killed %s
+Snow
+Shrinking world border to %s blocks wide (down from %s blocks) over %s seconds
+Wither Skeleton
+Milk
+%1$s was fireballed by %2$s
+???
+Next auto save will trigger in %i minutes
+Wooden Axe
+Cobweb
+Decorations
+Select Slot
+/seed
+Board
+Eye of Ender
+Data tag parsing failed: %s
+%1$s withered away
+Creative Mode
+Minecart with TNT
+Spruce Wood
+Create World!
+Gray Stained Glass Pane
+Done
+Seeds
+Nether Hunter
+Blocks
+Options
+Empty Map
+We're restoring your purchases!
+Press sneak to dismount
+Saving...
+Spawn Snow Golem
+World Seed
+Armor Stand
+Acacia Wood Slab
+Clear Hotbar
+Spruce Wood Slab
+Turned on the whitelist
+Zombie Head
+Book
+Construct a furnace out of eight stone blocks
+Arrow of Harming
+Water Lake Rarity
+Blue Wool
+Too many blocks in the specified area (%d > %d)
+Delete
+Use a book, obsidian and diamonds to construct an enchantment table
+Prompt on Links
+Stained Glass
+Bungling
+/title <player> clear|reset
+Minecart with Furnace
+Cracked Stone Brick Monster Egg
+/debug <start|stop>
+Nether Brick Fence
+The maximum number of water creatures in a world has been reached.
+Peasant
+Chain Helmet
+Weighted Pressure Plate (Light)
+Diamond Sword
+Farmer
+%d blocks filled
+Weapon Smith
+Snowball
+Set %s's spawn point to (%d, %d, %d)
+Texel Anti-Aliasing
+Rail Rider
+Blue Stained Clay
+Empty Save
+When Applied:
+Bone Meal
+Netherrack
+Golden Carrot
+%s . . . ?
+Could not clear the inventory of %s, no items to remove
+Group
+Dirt
+Fly a pig off a cliff
+Allow
+Spawn Pig
+Leave blank for a random seed
+%1$s drowned whilst trying to escape %2$s
+Jungle Leaves
+/worldborder add <sizeInBlocks> [timeInSeconds]
+Teleported %s to %s
+hi %
+Relieve a Blaze of its rod
+Would you like to buy all the skins in this pack?
+Iron Helmet
+Purple Carpet
+Couldn't take %1$s from %2$s as they do not have the effect
+/worldborder damage buffer <sizeInBlocks>
+Birch Wood Planks
+/worldborder <set|center|damage|warning|get|add> ...
+The Beginning.
+Flower Pot
+/worldborder center <x> <z>
+Bed
+Fire Aspect
+Screenshots
+Orange Stained Clay
+New
+Painting
+Biome Scale Offset
+Craft a workbench with four blocks of planks
+Down
+Wet Sponge
+We're restoring your skins!
+D-Pad Size
+Potion of Water Breathing
+Red Sandstone
+Potion of Regeneration
+Magenta
+Could not remove %s from the whitelist
+Manage your Texture Packs
+Furnace
+Princess Iron Fan
+Data tag parsing failed: %s
+Large Chest
+Leaving game...
+Auto Jump
+Knockback Resistance
+Stand
+Petra Armored
+Arrow of Strength
+Bowl
+Blindness
+Rotten Flesh
+Light Gray
+Green Stained Glass
+Game mode '%s' is invalid
+Tinkerer
+Bed
+Note! When you sign the book, it will no longer be editable.
+Magenta Stained Glass
+Cycle Item Left
+%1$s tried to swim in lava to escape %2$s
+Jungle Door
+Rabbit's Foot
+Dandelion
+The classic Minecraft textures.
+Select a Preset
+Water World
+Journey To The West
+Acacia Fence
+Leaves
+Speed
+Delete your world forever.
+Press sneak to dismount
+Wolf
+Back
+That entity cannot be found
+Diamond Helmet
+Opped %s
+Coal Ore
+Sea Level
+You can't send a private message to yourself!
+/say <message ...>
+Build a Notch apple
+Items
+Video Settings
+Exit
+Ellegaard
+Cyan Stained Glass
+Edit
+Third Person Front
+Remove Layer
+Cheats
+Records Played
+Custom
+Dead Bush
+Wooden Slab
+Fireball
+Mob Follow Range
+Tattered
+Player Kills
+Carpet
+Orange
+Overkill
+%1$s fell out of the water
+%1$s was pummeled by %2$s
+Chicken
+The extra data on the microSD Card is corrupt.  You can delete the extra data in System Settings.
+The maximum number of villagers in a world has been reached.
+Dungeon Count
+Carpet
+Golden Shovel
+More World Options...
+Red Sandstone Slab
+Warning!
+Oak Wood
+Cannot access blocks outside of the world
+Monk
+Simple, colorful, and vibrant.
+No game rule called '%s' is available
+Entity type '%s' is invalid
+Survival Mode
+Sugar Canes
+Push To Talk/Mute
+Took all effects from %s
+%1$s Mined
+Actions
+Kicked %s from the game
+Snow Golem costume
+Will be saved in:
+Wheat, sugar, milk and eggs!
+Acacia Wood Planks
+Golden Chestplate
+Spawn Cave Spider
+Biome Settlers Pack 2
+%1$s was killed by magic
+Hot Topic
+Cat
+Slime
+Trigger
+Cake Maniac
+Delicious Fish
+Data tag parsing failed: %s
+Cleric
+VI
+%1$s fell out of the world
+Default
+Time is %d
+Pig costume
+Arrow of Swiftness
+Large
+Light Gray Carpet
+Water
+Ender Chests Opened
+Save with unassigned actions?
+Nether Brick Slab
+Are you sure you want to lock the difficulty of this world? This will set this world to always be %1$s, and you will never be able to change that again.
+Hard
+Options
+Detector Rail
+Forest Engineer
+Presets
+Language translations may not be 100% accurate
+/replaceitem entity <selector> <slot> <item> [amount] [data] [dataTag]
+None
+The maximum number of enemies in a world has been reached.
+Mob Kills
+Saving Complete.
+Select Texture Packs
+Friar Sand
+Enable FBOs
+Cyan Wool
+Peony
+Gabriel
+Feed
+Librarian
+Purple Wool
+Gunpowder
+End Stone
+Mossy Stone Bricks
+Cow
+/xp <amount> [player] OR /xp <amount>L [player]
+Throw diamonds at another player.
+Dark Oak Wood
+Egg
+Long ago
+/worldborder warning distance <blocks>
+Invalid trigger name %s
+Normal
+Hotbar Slot 6
+Witch
+Potion of Strength
+Classic Controls
+Friends
+Iron Shovel
+The End?
+ Min. Height
+Chat
+Added %d to the time
+Endermite
+Hardened Clay
+Biome Size
+Minecart
+Advanced
+Are you sure you want to leave Realm %1$s?
+Stone Brick Monster Egg
+%d
+Cyan
+/fill <x1> <y1> <z1> <x2> <y2> <z2> <TileName> [dataValue] [oldBlockHandling] [dataTag]
+Golden Apple
+Advanced Video Settings
+HYPERSPEED!!!
+Milk
+Jump Boost
+Light Blue Carpet
+Invert Mouse
+Cracked Stone Bricks
+IV
+Minecart with Command Block
+Allow Snooper
+Green Stained Glass Pane
+X
+Potato
+Boat
+Noteblocks played
+%1$s fell too far and was finished by %2$s using %3$s
+Animals Bred
+Cooked Fish
+Red
+Stained Glass Pane
+©Mojang AB
+Ghast Tear
+Chiseled Quartz Block
+Iron Ingot
+Armorer
+The number you have entered (%d) is too big, it must be at most %d
+Witch
+/title <player> times <fadeIn> <stay> <fadeOut>
+Given %s * %d to %s
+No valid output for that item
+Press sneak to dismount
+Button
+Beacon
+Sponge
+We're unable to connect to the store. Maybe check your internet connection?
+Pink
+Spruce Fence Gate
+Polished Granite
+Dungeon Spectre
+Magenta Carpet
+Times Mined
+Enderman
+Local Brewery
+Purple Stained Glass Pane
+Chest
+Blue Orchid
+King
+All
+Lead
+Tipped Arrow
+Mrs Claus
+Redstone Miner
+Controls
+Lime Carpet
+Moody
+Arrow of Regeneration
+Cow costume
+Choose New Skin
+Sensitivity
+Absorption
+Level export finished successfully
+Arrow of Leaping
+Move Forward
+Chunk is not empty.
+Isle Land
+Giant
+Growing world border to %s blocks wide (up from %s blocks) over %s seconds
+%s layer's buffer contains %d vertices
+Iron Golem costume
+Mundane
+Strafe Left
+Arrow of Night Vision
+Distance Climbed
+Potion of Weakness
+Barman
+/trigger <objective> <add|set> <value>
+Cyan Stained Glass Pane
+Plastic
+%1$s was slain by %2$s
+Spawn Mooshroom
+Large Biomes
+C418 - stal
+Nether Wart
+Lime Wool
+Smooth
+Bricks Slab
+Structures
+C418 - 11
+settings and cannot be undone.
+Minecraft requires a microSD Card to proceed.  Please power the system off, insert a microSD Card and try again.
+%1$s fell off a ladder
+/stats <entity|block> ...
+Wooden Pickaxe
+Dark Oak Wood Stairs
+Select
+Water Bottle
+Saddle
+Potion of Swiftness
+Fancy Graphics
+Miscellaneous
+Yellow Stained Clay
+Write
+Animated water
+Set the world spawn point to (%d, %d, %d)
+Gravel
+Secondary Power
+Gameplay
+Orange Dye
+Clock
+Stained Clay
+Your home bed was missing or obstructed
+Particle Render Distance
+Dungeons
+ Spawn Size
+%1$s was slain by %2$s
+Diamond Shovel
+Flint and Steel
+Games quit
+%d Lapis Lazuli
+Iron Sword
+Building terrain
+Cauldrons Filled
+Jukebox
+Quit
+Potion of Fire Resistance
+Requires '%1$s'
+Spawn Squid
+IV
+Pillar Quartz Block
+C418 - blocks
+Focused Height
+Create New World
+Weighted Pressure Plate (Heavy)
+Ghast costume
+Jailer
+An error occurred while accesing the microSD Card.  Please power the system off, ensure that the card is not write protected and try again.
+Data tag parsing failed: %s
+Mount
+Switching worlds
+Bandit
+Reset Realm
+Regeneration
+Desert Engineer
+Redstone Repeater
+'%s' is not true or false
+Doorman
+Classic Minecraft controls. Normal turning and jumping. This setting may not be ideal for some players. Controls can also be changed in-game via the options menu.
+Border
+Stone Bricks
+Anti-Aliasing
+Black Stained Clay
+Set the time to %d
+VII
+Level import started...
+Andesite
+Button
+Distance Sprinted
+Lure
+Jungle Wood Stairs
+Cycle Item Right
+Magenta Stained Glass Pane
+All
+Attack/Destroy
+Sorry, we were unable to restore your purchases. Maybe check your internet connection?
+Ocelot
+Skins
+Pink Tulip
+First Person
+Leather Boots
+Are you sure you want to quit?
+Slimeball
+is corrupted and can't be started.
+Checking microSD Card...
+1 Enchantment Level
+Play Demo World
+Could not replace slot %d with %d * %s
+Block of Coal
+This may take a few moments
+Recent
+Fortune
+-%d%% %s
+Mushroom
+River Size
+%s is locked!
+That player cannot be found
+Ladder
+Height Scale
+Bricks
+Defaults
+Podzol
+Reset Keys
+Sprint
+Delete
+Milky
+Diamonds to you!
+Bake Bread
+Crops
+Particles
+Entity data updated to: %s
+Bone
+Turned on world auto-saving
+Place
+Trapper
+Turned off the whitelist
+Close
+Small
+Charming
+Potion of Healing
+Set %s's game mode to %s
+Diamond Horse Armor
+You cannot dig here
+You need to unlock this pack to equip the skin you selected.
+Mossy Cobblestone Wall
+OFF
+Back to Brewing
+Reloaded the whitelist
+Thorns
+Water Taken from Cauldron
+De-opped %s
+Acacia Wood
+Traded with Villagers
+Minimal
+Spawn Iron Golem
+You can only sleep at night
+The number you have entered (%.2f) is too big, it must be at most %.2f
+Cobblestone Stairs
+Left Sleeve
+Stick
+Spruce Sapling
+Infinite
+Spreading %s teams %s blocks around %s,%s (min %s blocks apart)
+Temples
+Eyece
+Could not spread %s teams around %s,%s (too many players for space - try using spread of at most %s)
+Times played
+Trigger %s is not enabled
+Back to Game
+Scroll Faster
+Ravines
+Jade Emperor
+Realms
+Slate
+Smooth Lighting
+There is no such block with ID/name %s
+Dashing
+Spawn Ghast
+Miscellaneous
+C418 - 13
+Sugar
+Black Stained Glass
+Spawn Chicken
+Shear
+Pumpkin Seeds
+Block of Gold
+Dirt
+Spawn Skeleton
+Redstone Torch
+Oxeye Daisy
+You whisper to %s: %s
+City
+Gold Nugget
+Confirm Leave
+Reset
+Mage
+Arrow
+Mossy Stone Brick Monster Egg
+Spawn Wolf
+Save & Quit to Title
+Squid
+%1$s suffocated in a wall
+Wooden Hoe
+Smooth Red Sandstone
+Unknown command. Try /help for a list of commands
+Unbreaking
+TNT Tech
+Credits
+Fire Charge
+/stats block <x> <y> <z> clear <stat>
+Small
+Advanced OpenGL
+Building Blocks
+Player %s is too far away to hear the sound
+%1$s was killed by %2$s using magic
+Pink Stained Glass
+Mime
+/op <player>
+Control Scheme
+Accept
+Name
+Rank
+Video Quality Settings...
+Hidden
+Miscellaneous
+Max Health
+Manual
+There are %d (out of %d seen) whitelisted players:
+/save-all
+Customize World Presets
+Copy of original
+Enable Cheats
+Lapis Lazuli
+Melon
+Suave
+Wither
+Sandstone Stairs
+Mushroom
+Blaze
+Potion of Haste
+Librarian
+Red Stained Glass Pane
+Monster Hunter
+Activator Rail
+Enchantro
+Gray Stained Glass
+Custom
+Caves
+-%d%% %s
+Nether Extinguisher
+Sign and Close
+Suggested Friends
+Hotbar Slot 5
+Zombie
+Difficulty
+Dark Oak Boat
+Lever
+Item Selection
+Wooden Slab
+ Max. Height
+Use VBOs
+'%s' is not a valid parameter
+Removed %s from the whitelist
+Depth Noise Exponent
+The nether reactor needs to be built lower down.
+Glistering Melon
+Remove Input
+Offline Friends
+Unknown Map
+The Killer Bunny
+Chiseled Stone Bricks
+Strafe Right
+Paused
+Spawn the Wither
+Graphics
+Raw Salmon
+Streaming
+Invite Player
+Destroy Block (vibrate)
+Left/right Adjust Slider
+Cooked Chicken
+Default
+Use planks and sticks to make a swordsword
+III
+Remove Fuel
+Drought
+Nether Brick
+Move Back
+Punch
+Fish
+/testforblocks <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [mode]
+Mother Christmas
+Normal
+You need stone materials to craft!
+Spawn Husk
+Given %1$s (ID %2$d) * %3$d to %4$s for %5$d seconds
+Play
+Jesse
+Zombie Villager
+Emerald Ore
+Play New Demo World
+XP Cost: %1$d
+-%d %s
+Birch Fence
+Set world border warning to %s blocks away (from %s blocks)
+Kill a skeleton with an arrow from more than 50 meters
+Free your inner architect and shape the world around you.
+Portfolio
+is corrupted and can't be saved.
+Spawn Rabbit
+Play Selected World
+Spawn
+No blocks filled
+Saving to microSD Card...
+Map
+was created with invalid arguments.

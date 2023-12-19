@@ -1,0 +1,7 @@
+C:\Users\zZz\source\repos\Minecraft3DS\bin\Debug\Minecraft3DS.exe.config
+C:\Users\zZz\source\repos\Minecraft3DS\bin\Debug\Minecraft3DS.exe
+C:\Users\zZz\source\repos\Minecraft3DS\bin\Debug\Minecraft3DS.pdb
+C:\Users\zZz\source\repos\Minecraft3DS\obj\Debug\Minecraft3DS.csproj.AssemblyReference.cache
+C:\Users\zZz\source\repos\Minecraft3DS\obj\Debug\Minecraft3DS.csproj.CoreCompileInputs.cache
+C:\Users\zZz\source\repos\Minecraft3DS\obj\Debug\Minecraft3DS.exe
+C:\Users\zZz\source\repos\Minecraft3DS\obj\Debug\Minecraft3DS.pdb
